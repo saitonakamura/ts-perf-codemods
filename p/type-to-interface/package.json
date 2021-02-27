@@ -1,0 +1,10 @@
+{
+  "name": "type-to-interface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  }
+}
